@@ -1,0 +1,16 @@
+C:\Users\Omer\source\repos\NetWork2Task_TCPServerClient\NetWork2Task_TCPServerClient\bin\Debug\NetWork2Task_TCPServerClient.exe.config
+C:\Users\Omer\source\repos\NetWork2Task_TCPServerClient\NetWork2Task_TCPServerClient\bin\Debug\NetWork2Task_TCPServerClient.exe
+C:\Users\Omer\source\repos\NetWork2Task_TCPServerClient\NetWork2Task_TCPServerClient\bin\Debug\NetWork2Task_TCPServerClient.pdb
+C:\Users\Omer\source\repos\NetWork2Task_TCPServerClient\NetWork2Task_TCPServerClient\obj\Debug\TCPServer.csproj.AssemblyReference.cache
+C:\Users\Omer\source\repos\NetWork2Task_TCPServerClient\NetWork2Task_TCPServerClient\obj\Debug\MVVM\Views\MainWindow.g.cs
+C:\Users\Omer\source\repos\NetWork2Task_TCPServerClient\NetWork2Task_TCPServerClient\obj\Debug\App.g.cs
+C:\Users\Omer\source\repos\NetWork2Task_TCPServerClient\NetWork2Task_TCPServerClient\obj\Debug\NetWork2Task_TCPServerClient_MarkupCompile.cache
+C:\Users\Omer\source\repos\NetWork2Task_TCPServerClient\NetWork2Task_TCPServerClient\obj\Debug\NetWork2Task_TCPServerClient_MarkupCompile.lref
+C:\Users\Omer\source\repos\NetWork2Task_TCPServerClient\NetWork2Task_TCPServerClient\obj\Debug\MVVM\Views\MainWindow.baml
+C:\Users\Omer\source\repos\NetWork2Task_TCPServerClient\NetWork2Task_TCPServerClient\obj\Debug\NetWork2Task_TCPServerClient.g.resources
+C:\Users\Omer\source\repos\NetWork2Task_TCPServerClient\NetWork2Task_TCPServerClient\obj\Debug\NetWork2Task_TCPServerClient.Properties.Resources.resources
+C:\Users\Omer\source\repos\NetWork2Task_TCPServerClient\NetWork2Task_TCPServerClient\obj\Debug\TCPServer.csproj.GenerateResource.cache
+C:\Users\Omer\source\repos\NetWork2Task_TCPServerClient\NetWork2Task_TCPServerClient\obj\Debug\TCPServer.csproj.CoreCompileInputs.cache
+C:\Users\Omer\source\repos\NetWork2Task_TCPServerClient\NetWork2Task_TCPServerClient\obj\Debug\NetWork2Task_TCPServerClient.exe
+C:\Users\Omer\source\repos\NetWork2Task_TCPServerClient\NetWork2Task_TCPServerClient\obj\Debug\NetWork2Task_TCPServerClient.pdb
+C:\Users\Omer\source\repos\NetWork2Task_TCPServerClient\NetWork2Task_TCPServerClient\obj\Debug\GeneratedInternalTypeHelper.g.cs
